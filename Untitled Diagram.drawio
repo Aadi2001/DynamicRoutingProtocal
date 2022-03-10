@@ -1,1 +1,69 @@
-<mxfile host="app.diagrams.net" modified="2021-10-30T09:05:52.437Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" version="15.6.2" etag="lFHCl0IgaOQj3DOieElV" type="github"><diagram id="gojWmzFdLa_rbeJ8hABN">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-10T12:43:21.425Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="VO-03Dd7TYc32TCGEaNg" version="16.6.4" type="github">
+  <diagram id="gojWmzFdLa_rbeJ8hABN" name="Page-1">
+    <mxGraphModel dx="1149" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="1">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kmiz8HaaE_acMBwyQUWJ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=13;fillColor=#a20025;strokeColor=#6F0000;" edge="1" parent="1" source="kmiz8HaaE_acMBwyQUWJ-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kmiz8HaaE_acMBwyQUWJ-1" value="Dynamic Routing&lt;br style=&quot;font-size: 13px;&quot;&gt;Protocol" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;glass=0;shadow=1;sketch=0;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="365" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kmiz8HaaE_acMBwyQUWJ-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=13;" edge="1" parent="1" source="kmiz8HaaE_acMBwyQUWJ-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kmiz8HaaE_acMBwyQUWJ-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=13;" edge="1" parent="1" source="kmiz8HaaE_acMBwyQUWJ-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kmiz8HaaE_acMBwyQUWJ-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=13;" edge="1" parent="1" source="kmiz8HaaE_acMBwyQUWJ-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kmiz8HaaE_acMBwyQUWJ-2" value="Interior Gateway&lt;br style=&quot;font-size: 13px;&quot;&gt;Protocol&lt;br style=&quot;font-size: 13px;&quot;&gt;(IGP)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;glass=0;shadow=1;sketch=0;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="365" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kmiz8HaaE_acMBwyQUWJ-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=13;" edge="1" parent="1" source="kmiz8HaaE_acMBwyQUWJ-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kmiz8HaaE_acMBwyQUWJ-3" value="Link State" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;glass=0;shadow=1;sketch=0;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="365" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kmiz8HaaE_acMBwyQUWJ-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=13;" edge="1" parent="1" source="kmiz8HaaE_acMBwyQUWJ-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="245" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kmiz8HaaE_acMBwyQUWJ-4" value="Distance Vector" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;glass=0;shadow=1;sketch=0;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="185" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kmiz8HaaE_acMBwyQUWJ-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=13;" edge="1" parent="1" source="kmiz8HaaE_acMBwyQUWJ-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="605" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kmiz8HaaE_acMBwyQUWJ-5" value="Hybrid" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;glass=0;shadow=1;sketch=0;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="545" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kmiz8HaaE_acMBwyQUWJ-6" value="Routing Information&lt;br style=&quot;font-size: 13px;&quot;&gt;Protocol&lt;br style=&quot;font-size: 13px;&quot;&gt;(RIP)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;glass=0;shadow=1;sketch=0;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="185" y="470" width="125" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kmiz8HaaE_acMBwyQUWJ-7" value="Open Shortest Path&lt;br style=&quot;font-size: 13px;&quot;&gt;First Protocol&lt;br style=&quot;font-size: 13px;&quot;&gt;(OSPF)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;glass=0;shadow=1;sketch=0;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="365" y="470" width="125" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kmiz8HaaE_acMBwyQUWJ-8" value="Enhanced Interior&lt;br style=&quot;font-size: 13px;&quot;&gt;Gateway Routing&lt;br style=&quot;font-size: 13px;&quot;&gt;Protocol&lt;br style=&quot;font-size: 13px;&quot;&gt;(EIGRP)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;glass=0;shadow=1;sketch=0;fontSize=13;spacing=4;" vertex="1" parent="1">
+          <mxGeometry x="545" y="470" width="125" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
