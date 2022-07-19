@@ -1,4 +1,4 @@
-# DynamicRoutingProtocal
+# DynamicRoutingProtocol
 Comparative Analysis of Dynamic Routing  Protocol using Packet Tracer 7.3.1 with Dynamic  BW
 
 # Abstract
